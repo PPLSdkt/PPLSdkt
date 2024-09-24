@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python & AI prompt assistant
 - 💞️ I’m looking to collaborate on making new AI for the old
 - 📫 How to reach me via email：905070249@qq.com
-- 😄 Pronouns: MS bubble Xie
-- ⚡ Fun fact: cute but hardcored girl
+- 😄 Pronouns: Ms Bubble Xie
+- ⚡ Fun fact: cute but hardcore girl
 
 <!---
 PPLSdkt/PPLSdkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
